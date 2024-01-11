@@ -2,7 +2,7 @@
 Codefirst b-22 live demo
 #hit this chages from gk
 
-1] git clone ====> 1 time
+1] git clone ====> 1 timegit 
 git clone url[repo/branch]
 
 2] Goto cloned folder
