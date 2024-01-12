@@ -24,4 +24,10 @@ git pull origin main
 2] Code commit 
     2.1] stage your change
     2.2] commit your changes
-3]  
+
+3]git push origin your branch   
+
+
+git config --global user.email "vaishalipaymode25@gmail.com"
+  git config --global user.name "vaishali p"
+ 
